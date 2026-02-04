@@ -1,5 +1,5 @@
 # best-repo-ever
 
-These are my test chages.
+These are my test changes
 
 Hello world.
